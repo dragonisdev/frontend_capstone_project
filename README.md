@@ -1,1 +1,2 @@
-Capstone project for coursera
+Capstone project for coursera about a restaurant frontend
+ 
